@@ -1,0 +1,101 @@
+,title_name,published_date,views,comments,likes,month,year
+0,Introduction to Programming & Python | Python Tutorial - Day #1,2022-11-28 11:30:03+00:00,7348498,24891,188440,11,2022
+1,Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2,2022-11-29 11:30:07+00:00,2456879,2635,61033,11,2022
+2,Modules and Pip | Python Tutorial - Day #3,2022-11-30 12:36:50+00:00,2212791,2485,46653,11,2022
+3,Our First Python Program | Python Tutorial - Day #4,2022-12-01 11:30:02+00:00,1567443,5527,37269,12,2022
+4,"Comments, Escape Sequences & Print Statement | Python Tutorial - Day #5",2022-12-02 11:30:09+00:00,1660170,3987,38413,12,2022
+5,Variables and Data Types | Python Tutorial - Day #6,2022-12-03 11:30:10+00:00,1439248,2511,36640,12,2022
+6,Exercise 1: Calculator using Python | Python Tutorial - Day #7,2022-12-04 11:30:07+00:00,1019065,2286,22019,12,2022
+7,Exercise 1: Calculator using Python (Solution) | Python Tutorial - Day #8,2022-12-05 11:30:09+00:00,905260,1401,19451,12,2022
+8,Typecasting in Python | Python Tutorial - Day #9,2022-12-06 16:14:25+00:00,937213,1387,25071,12,2022
+9,Taking User Input in Python | Python Tutorial - Day #10,2022-12-07 11:30:14+00:00,864554,1642,24509,12,2022
+10,Strings in Python | Python Tutorial - Day #11,2022-12-08 13:28:13+00:00,954256,1255,23306,12,2022
+11,Strings Slicing and Operations on Strings in Python | Python Tutorial - Day #12,2022-12-09 11:28:25+00:00,870188,2067,20844,12,2022
+12,String Methods in Python | Python Tutorial - Day #13,2022-12-10 11:45:27+00:00,1009358,1209,24598,12,2022
+13,If Else Conditional Statements in Python | Python Tutorial - Day #14,2022-12-11 11:30:14+00:00,862145,1304,19331,12,2022
+14,Exercise 2: Good Morning Sir | Python Tutorial - Day #15,2022-12-12 11:30:09+00:00,609987,1853,12092,12,2022
+15,Match Case Statements in Python | Python Tutorial - Day #16,2022-12-13 11:30:07+00:00,621343,930,13835,12,2022
+16,For Loops in Python | Python Tutorial - Day #17,2022-12-14 11:30:19+00:00,804014,1123,19439,12,2022
+17,While Loops in Python | Python Tutorial - Day #18,2022-12-15 11:38:24+00:00,650218,799,15622,12,2022
+18,break and continue in Python | Python Tutorial - Day #19,2022-12-16 11:30:06+00:00,538745,1076,13423,12,2022
+19,Functions in Python | Python Tutorial - Day #20,2022-12-17 11:30:10+00:00,750510,1252,18419,12,2022
+20,Function Arguments in Python | Python Tutorial - Day #21,2022-12-18 11:30:00+00:00,571592,804,13770,12,2022
+21,Introduction to Lists in Python | Python Tutorial - Day #22,2022-12-19 11:30:11+00:00,552832,1191,14119,12,2022
+22,List Methods in Python | Python Tutorial - Day #23,2022-12-20 11:30:23+00:00,408419,646,11605,12,2022
+23,Tuples in Python | Python Tutorial - Day #24,2022-12-21 11:30:05+00:00,393900,448,10969,12,2022
+24,Operations on Tuples in Python | Python Tutorial - Day #25,2022-12-22 11:30:13+00:00,333243,392,9240,12,2022
+25,Exercise 2: Solution & Shoutouts | Python Tutorial - Day #26,2022-12-23 11:30:07+00:00,282996,400,6200,12,2022
+26,Exercise 3: Kaun Banega Crorepati (KBC) | Python Tutorial - Day #27,2022-12-24 11:30:13+00:00,276306,983,6680,12,2022
+27,f-strings in Python | Python Tutorial - Day #28,2022-12-25 11:30:20+00:00,357997,444,9510,12,2022
+28,Docstrings in Python | Python Tutorial - Day #29,2022-12-26 11:30:13+00:00,303890,351,8548,12,2022
+29,Recursion in Python | Python Tutorial - Day #30,2022-12-27 11:30:08+00:00,385866,953,9723,12,2022
+30,Sets in Python | Python Tutorial - Day #31,2022-12-28 11:30:19+00:00,302818,492,8556,12,2022
+31,Set Methods in Python | Python Tutorial - Day #32,2022-12-29 11:30:08+00:00,301662,406,8365,12,2022
+32,Dictionaries in Python | Python Tutorial - Day #33,2022-12-30 11:30:18+00:00,357672,622,10142,12,2022
+33,Dictionary Methods in Python | Python Tutorial - Day #34,2022-12-31 11:30:05+00:00,247408,385,7851,12,2022
+34,for Loop with else in Python | Python Tutorial - Day #35,2023-01-01 11:30:10+00:00,220871,526,7644,1,2023
+35,Exception Handling in Python | Python Tutorial - Day #36,2023-01-02 11:30:02+00:00,372004,376,10291,1,2023
+36,Finally keyword in Python | Python Tutorial - Day #37,2023-01-03 11:30:20+00:00,241430,348,7860,1,2023
+37,Raising custom errors in Python | Python Tutorial - Day #38,2023-01-04 11:30:11+00:00,238060,881,7481,1,2023
+38,Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts | Python Tutorial - Day #39,2023-01-05 11:30:14+00:00,254625,637,6149,1,2023
+39,Exercise 4: Secret Code Language | Python Tutorial - Day #40,2023-01-06 11:30:15+00:00,193512,751,5428,1,2023
+40,Short hand if else statements | Python Tutorial - Day #41,2023-01-07 11:30:08+00:00,195328,529,6346,1,2023
+41,Enumerate Function in Python | Python Tutorial - Day #42,2023-01-08 11:30:12+00:00,214675,262,6292,1,2023
+42,Virtual Environment in Python | Python Tutorial - Day #43,2023-01-09 11:30:22+00:00,257901,554,7143,1,2023
+43,How import works in Python | Python Tutorial - Day #44,2023-01-10 14:30:05+00:00,212394,287,6416,1,2023
+44,"if __name__ == ""__main__"" in Python | Python Tutorial - Day #45",2023-01-11 11:30:18+00:00,224333,465,7120,1,2023
+45,os Module in Python | Python Tutorial - Day #46,2023-01-12 11:30:12+00:00,241316,359,6778,1,2023
+46,Exercise 4: Solutions and Shoutouts | Python Tutorial - Day #47,2023-01-13 11:30:01+00:00,150826,362,3616,1,2023
+47,Local vs Global Variables in Python| Python Tutorial - Day #48,2023-01-14 11:30:07+00:00,186750,300,6042,1,2023
+48,File IO in Python | Python Tutorial - Day #49,2023-01-15 11:30:10+00:00,281592,285,7304,1,2023
+49,"read(), readlines() and other methods | Python Tutorial - Day #50",2023-01-16 11:30:20+00:00,204548,644,5752,1,2023
+50,"seek(), tell() and other functions | Python Tutorial - Day #51",2023-01-17 11:30:08+00:00,163624,267,5407,1,2023
+51,Lambda functions in Python | Python Tutorial - Day #52,2023-01-18 11:30:06+00:00,229754,286,6868,1,2023
+52,"Map, Filter and Reduce in Python | Python Tutorial - Day #53",2023-01-19 11:30:06+00:00,208825,992,6739,1,2023
+53,'is' vs '==' in Python | Python Tutorial - Day #54,2023-01-20 15:48:37+00:00,119887,280,4490,1,2023
+54,Exercise 5 - Snake Water Gun | Python Tutorial - Day #55,2023-01-21 11:30:09+00:00,116895,486,3224,1,2023
+55,Introduction to OOPs in Python | Python Tutorial - Day #56,2023-01-22 11:30:08+00:00,334177,331,8518,1,2023
+56,Classes and Objects in Python | Python Tutorial - Day #57,2023-01-23 11:30:00+00:00,350413,1457,9231,1,2023
+57,Constructors in Python | Python Tutorial - Day #58,2023-01-24 11:30:01+00:00,250088,334,6550,1,2023
+58,Decorators in Python | Python Tutorial - Day #59,2023-01-25 12:27:48+00:00,260301,332,6711,1,2023
+59,Getters and Setters in Python | Python Tutorial - Day #60,2023-01-26 11:30:01+00:00,185438,362,4419,1,2023
+60,Inheritance in Python | Python Tutorial - Day #61,2023-01-27 11:30:00+00:00,179298,168,4819,1,2023
+61,Access Modifiers in Python | Python Tutorial - Day #62,2023-01-28 12:22:47+00:00,145501,179,4116,1,2023
+62,Snake Water Gun Game in Python - Exercise 5 - Solution | Python Tutorial - Day #63,2023-01-29 11:30:09+00:00,115213,273,2813,1,2023
+63,Exercise 6 - Library Management System in Python | Python Tutorial - Day #64,2023-01-30 11:30:22+00:00,94208,223,2634,1,2023
+64,Static Methods in Python | Python Tutorial - Day #65,2023-01-31 13:05:45+00:00,128313,445,3692,1,2023
+65,Instance variables vs Class variables in Python | Python Tutorial - Day #66,2023-02-01 14:13:53+00:00,114318,173,3510,2,2023
+66,Exercise 6 Solution - Library Management Software in Python | Python Tutorial - Day #67,2023-02-02 11:30:19+00:00,85610,188,2133,2,2023
+67,Exercise 7 - Clear the Clutter | Python Tutorial - Day #68,2023-02-03 13:30:02+00:00,69716,157,1917,2,2023
+68,Class Methods in Python | Python Tutorial - Day #69,2023-02-04 13:00:07+00:00,115672,180,3146,2,2023
+69,Class Methods as Alternative Constructors in Python | Python Tutorial - Day #70,2023-02-05 15:03:34+00:00,95373,398,2926,2,2023
+70,"dir, __dict__ and help method in Python | Python Tutorial - Day #71",2023-02-06 12:15:52+00:00,83341,126,2861,2,2023
+71,super keyword in Python | Python Tutorial - Day #72,2023-02-07 15:20:17+00:00,93209,166,3038,2,2023
+72,Magic/Dunder Methods in Python | Python Tutorial - Day #73,2023-02-08 15:42:04+00:00,95664,191,2963,2,2023
+73,Method Overriding in Python | Python Tutorial - Day #74,2023-02-09 11:30:02+00:00,92501,133,2602,2,2023
+74,Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75,2023-02-10 13:03:30+00:00,60515,101,1798,2,2023
+75,Exercise 8 - Merge the PDF | Python Tutorial - Day #76,2023-02-11 15:23:47+00:00,59720,145,1745,2,2023
+76,Operator Overloading in Python | Python Tutorial - Day #77,2023-02-12 11:30:04+00:00,93990,134,2581,2,2023
+77,Single Inheritance in Python | Python Tutorial - Day #78,2023-02-13 11:30:09+00:00,76239,147,2364,2,2023
+78,Multiple Inheritance in Python | Python Tutorial - Day #79,2023-02-14 14:07:09+00:00,73873,117,2294,2,2023
+79,Multilevel Inheritance in Python | Python Tutorial - Day #80,2023-02-15 14:25:02+00:00,70491,173,2281,2,2023
+80,Hybrid and Hierarchical Inheritance in Python | Python Tutorial - Day #81,2023-02-16 13:29:18+00:00,64562,109,2137,2,2023
+81,Exercise 8 - Merge the Pdf Solution in Python | Python Tutorial - Day #82,2023-02-17 16:15:59+00:00,53674,104,1549,2,2023
+82,Exercise 9 - Shoutouts to Everyone | Python Tutorial - Day #83,2023-02-18 14:12:02+00:00,45230,150,1460,2,2023
+83,Time Module in Python | Python Tutorial - Day #84,2023-02-19 15:03:14+00:00,80750,1178,2716,2,2023
+84,Creating command line utility in python | Python Tutorial - Day #85,2023-02-20 14:35:35+00:00,75504,261,2182,2,2023
+85,Walrus Operator in Python | Python Tutorial - Day #86,2023-02-21 15:21:29+00:00,59893,104,2179,2,2023
+86,Shutil Module in Python | Python Tutorial - Day #87,2023-02-22 14:50:29+00:00,64978,225,2518,2,2023
+87,Exercise 9: Solution - Shoutouts to Everyone | Python Tutorial - Day #88,2023-02-23 12:03:10+00:00,42989,182,1303,2,2023
+88,Requests Module in Python | Python Tutorial - Day #89,2023-02-24 11:30:17+00:00,71557,171,2143,2,2023
+89,Exercise 10: News App in Python | Python Tutorial - Day #90,2023-02-25 11:30:03+00:00,54924,100,1562,2,2023
+90,Generators in Python | Python Tutorial - Day #91,2023-02-26 11:30:24+00:00,86241,114,2643,2,2023
+91,Function Caching in Python | Python Tutorial - Day #92,2023-02-27 11:30:13+00:00,55176,132,2088,2,2023
+92,Exercise 10 - News App Solution & Shoutout | Python Tutorial - Day #93,2023-02-28 12:33:43+00:00,55505,113,1520,2,2023
+93,Exercise 11 - Drink Water Reminder | Python Tutorial - Day #94,2023-03-01 11:58:47+00:00,52264,278,1463,3,2023
+94,Regular Expressions in Python | Python Tutorial - Day #95,2023-03-02 14:07:54+00:00,140825,118,3387,3,2023
+95,AsyncIO in Python | Python Tutorial - Day #96,2023-03-03 11:32:53+00:00,84372,160,2178,3,2023
+96,Multithreading in Python | Python Tutorial - Day #97,2023-03-04 15:23:27+00:00,116170,172,2988,3,2023
+97,MultiProcessing in Python | Python Tutorial - Day #98,2023-03-05 11:30:28+00:00,94834,152,2261,3,2023
+98,Exercise 11: Solution + Shoutouts - Desktop Notification System | Python Tutorial - Day #99,2023-03-06 11:30:00+00:00,94091,220,1634,3,2023
+99,Conclusion and Where to go from here | Python Tutorial - Day #100,2023-03-07 13:23:30+00:00,287423,1215,9804,3,2023
